@@ -15,7 +15,7 @@ This layout uses CSS Grid to arrange 10 boxes in a custom structure, with each b
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-fohalabi/css-grid-layout.git
+   git clone https://github.com/fohalabi/css-grid-layout.git
    ```
 
 2. **Navigate to the project folder**:
