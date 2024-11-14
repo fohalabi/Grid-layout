@@ -33,7 +33,7 @@ This layout uses CSS Grid to arrange 10 boxes in a custom structure, with each b
 You can modify the grid layout by editing the CSS file (`style.css`). Key customizations include:
 
 - Changing the number of columns or rows (`grid-template-columns`, `grid-template-rows`).
-- Adjusting the placement of specific grid items by modifying `grid-colums` and `grid-row`.
+- Adjusting the placement of specific grid items by modifying `grid-columns` and `grid-row`.
 - Adding or removing items as needed.
 
 ## License
